@@ -1,0 +1,13 @@
+{
+  "avatar": "./avatar.jpeg",
+  "title": "MenlonKid的随记",
+  "subTitle": "MelonKid's blog",
+  "intro": "享受生活，欣赏美",
+  "social": [
+    {
+      "text": "简书",
+      "link": "https://www.jianshu.com/u/d1c96ee764d8"
+    }
+  ],
+  "copyright": "© MenlonKid的随记 | 2020 MelonKid"
+}

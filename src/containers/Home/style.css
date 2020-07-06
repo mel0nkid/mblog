@@ -1,0 +1,15 @@
+.page-container .post-list {
+  min-height: 300px;
+  width: var(--content-width);
+  padding-bottom: 2em;
+  float: left;
+}
+
+.post-list .load-more {
+  margin: 0 4em;
+}
+
+.loadMore {
+  color: #2a7ae2;
+  cursor: pointer;
+}

@@ -1,0 +1,48 @@
+.side-wrapper {
+  float: left;
+  width: 25%;
+}
+
+.blog-avatar {
+  margin-bottom: 1em;
+  width: 8em;
+  height: 8em;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: center;
+  border-radius: 100%;
+}
+
+.blog-title {
+  font-size: 1.8em;
+  line-height: 2em;
+  color: #f5f5f5;
+}
+
+.blog-subtitle {
+  font-size: 1.4em;
+  line-height: 2em;
+}
+
+.blog-title,
+.blog-subtitle,
+.blog-desc {
+  font-weight: 400;
+}
+
+.blog-desc {
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+.block-blank {
+  height: 20em;
+}
+
+.tag-style {
+  background-color: #fff;
+}
+
+.tag-style-checked {
+  background-color: rgb(177, 247, 252);
+}
